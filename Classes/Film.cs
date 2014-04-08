@@ -14,7 +14,7 @@ namespace Classes
         public Film(String affiche, String nom) {
             setAffiche(affiche);
             setNom(nom);
-            //test git
+            //test gi
         
         }
 
