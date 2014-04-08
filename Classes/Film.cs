@@ -14,7 +14,11 @@ namespace Classes
         public Film(String affiche, String nom) {
             setAffiche(affiche);
             setNom(nom);
+<<<<<<< HEAD
             //test gi gro pd
+=======
+            //test gi teddy
+>>>>>>> 8124eacc3c7c9fb8f044bc1a75fd3bf05b1b4f64
         
         }
 
